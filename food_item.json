@@ -1,0 +1,16 @@
+{
+    "1": {
+        "Name": "maggi",
+        "Quantity": 4,
+        "Price": 60,
+        "Discount": 5,
+        "Stock": 3
+    },
+    "2": {
+        "Name": "vada",
+        "Quantity": 3,
+        "Price": 50,
+        "Discount": 2,
+        "Stock": 6
+    }
+}
